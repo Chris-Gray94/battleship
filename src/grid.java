@@ -1,11 +1,7 @@
 import java.awt.*;
 import java.util.Scanner;
 
-public class grid {
-
-    public grid(){
-
-    }
+public class Grid {
 
     public static void gridSetup() {
 
